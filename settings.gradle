@@ -1,0 +1,2 @@
+rootProject.name = "LogTech"
+include ':app'
