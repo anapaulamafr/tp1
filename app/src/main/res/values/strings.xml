@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">LogTech</string>
     <string name="registrar">Registrar</string>
+    <string name="title_activity_files">Registrar</string>
+    <string name="arquivos_de_elocaliza_o_salvos">Arquivos de localização salvos:</string>
 </resources>
